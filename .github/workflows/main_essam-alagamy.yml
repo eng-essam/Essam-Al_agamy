@@ -63,4 +63,4 @@ jobs:
           app-name: 'Essam-Alagamy'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD28E040AC7E445DBA122FD202A59C22 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B7084E3D195410C99BCC1C63A268505 }}
